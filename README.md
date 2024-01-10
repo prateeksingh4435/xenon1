@@ -4,6 +4,7 @@
 ## Section A
 
 ### Steps
+# USING ANOTHER LAPTOP BECAUSE I USE WINDOWS ON MY PC 
 
 1. Open terminal and create a file named `internsctl` using `nano internsctl`.
 2. Modify the content of the file as per your data.
